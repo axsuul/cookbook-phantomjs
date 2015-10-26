@@ -7,4 +7,4 @@ version '0.1.0'
 
 supports 'ubuntu'
 
-depends 'build-essential', '~> 2.2.4'
+depends 'build-essential'

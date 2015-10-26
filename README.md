@@ -11,6 +11,13 @@ Installation
 
 Use [Berkshelf](http://berkshelf.com/)!
 
+Recipes
+=======
+
+## phantomjs::binary
+
+Downloads and places binary according to `node['phantomjs']['bin_url']`.
+
 Contributing
 ============
 
