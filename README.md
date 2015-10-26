@@ -1,7 +1,7 @@
-cookbook-machine
+cookbook-phantomjs
 ===========
 
-Provides Chef recipes to install [PhantomJS](http://phantomjs.org/).
+Provides Chef recipes to install and manage [PhantomJS](http://phantomjs.org/).
 
 Requirements
 ============
